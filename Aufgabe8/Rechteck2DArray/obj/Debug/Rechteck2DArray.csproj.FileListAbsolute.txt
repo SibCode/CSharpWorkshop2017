@@ -1,0 +1,7 @@
+C:\Users\rcr7\source\repos\Rechteck2DArray\Rechteck2DArray\bin\Debug\Rechteck2DArray.exe.config
+C:\Users\rcr7\source\repos\Rechteck2DArray\Rechteck2DArray\bin\Debug\Rechteck2DArray.exe
+C:\Users\rcr7\source\repos\Rechteck2DArray\Rechteck2DArray\bin\Debug\Rechteck2DArray.pdb
+C:\Users\rcr7\source\repos\Rechteck2DArray\Rechteck2DArray\obj\Debug\Rechteck2DArray.csprojResolveAssemblyReference.cache
+C:\Users\rcr7\source\repos\Rechteck2DArray\Rechteck2DArray\obj\Debug\Rechteck2DArray.csproj.CoreCompileInputs.cache
+C:\Users\rcr7\source\repos\Rechteck2DArray\Rechteck2DArray\obj\Debug\Rechteck2DArray.exe
+C:\Users\rcr7\source\repos\Rechteck2DArray\Rechteck2DArray\obj\Debug\Rechteck2DArray.pdb

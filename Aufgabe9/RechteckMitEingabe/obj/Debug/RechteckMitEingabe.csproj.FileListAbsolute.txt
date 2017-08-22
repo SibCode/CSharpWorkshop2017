@@ -1,0 +1,10 @@
+c:\users\rcr7\source\repos\RechteckMitEingabe\RechteckMitEingabe\obj\Debug\RechteckMitEingabe.csprojResolveAssemblyReference.cache
+c:\users\rcr7\source\repos\RechteckMitEingabe\RechteckMitEingabe\obj\Debug\RechteckMitEingabe.csproj.CoreCompileInputs.cache
+c:\users\rcr7\source\repos\RechteckMitEingabe\RechteckMitEingabe\bin\Debug\RechteckMitEingabe.exe.config
+c:\users\rcr7\source\repos\RechteckMitEingabe\RechteckMitEingabe\bin\Debug\RechteckMitEingabe.exe
+c:\users\rcr7\source\repos\RechteckMitEingabe\RechteckMitEingabe\bin\Debug\RechteckMitEingabe.pdb
+c:\users\rcr7\source\repos\RechteckMitEingabe\RechteckMitEingabe\obj\Debug\RechteckMitEingabe.exe
+c:\users\rcr7\source\repos\RechteckMitEingabe\RechteckMitEingabe\obj\Debug\RechteckMitEingabe.pdb
+C:\Users\rcp4\Desktop\C#_Schulung\Workshop2017\Aufgabe9\RechteckMitEingabe\bin\Debug\RechteckMitEingabe.exe.config
+C:\Users\rcp4\Desktop\C#_Schulung\Workshop2017\Aufgabe9\RechteckMitEingabe\obj\Debug\RechteckMitEingabe.exe
+C:\Users\rcp4\Desktop\C#_Schulung\Workshop2017\Aufgabe9\RechteckMitEingabe\obj\Debug\RechteckMitEingabe.pdb

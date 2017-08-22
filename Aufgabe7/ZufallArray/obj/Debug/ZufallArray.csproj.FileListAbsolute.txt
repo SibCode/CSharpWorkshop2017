@@ -1,0 +1,7 @@
+C:\Users\rcr7\source\repos\ZufallArray\ZufallArray\bin\Debug\ZufallArray.exe.config
+C:\Users\rcr7\source\repos\ZufallArray\ZufallArray\bin\Debug\ZufallArray.exe
+C:\Users\rcr7\source\repos\ZufallArray\ZufallArray\bin\Debug\ZufallArray.pdb
+C:\Users\rcr7\source\repos\ZufallArray\ZufallArray\obj\Debug\ZufallArray.csprojResolveAssemblyReference.cache
+C:\Users\rcr7\source\repos\ZufallArray\ZufallArray\obj\Debug\ZufallArray.csproj.CoreCompileInputs.cache
+C:\Users\rcr7\source\repos\ZufallArray\ZufallArray\obj\Debug\ZufallArray.exe
+C:\Users\rcr7\source\repos\ZufallArray\ZufallArray\obj\Debug\ZufallArray.pdb
