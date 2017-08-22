@@ -1,0 +1,6 @@
+C:\Users\rcp4\Desktop\C#_Schulung\Workshop2017\Aufgabe5\Aufgabe5\bin\Debug\Aufgabe5.exe.config
+C:\Users\rcp4\Desktop\C#_Schulung\Workshop2017\Aufgabe5\Aufgabe5\bin\Debug\Aufgabe5.exe
+C:\Users\rcp4\Desktop\C#_Schulung\Workshop2017\Aufgabe5\Aufgabe5\bin\Debug\Aufgabe5.pdb
+C:\Users\rcp4\Desktop\C#_Schulung\Workshop2017\Aufgabe5\Aufgabe5\obj\Debug\Aufgabe5.csprojResolveAssemblyReference.cache
+C:\Users\rcp4\Desktop\C#_Schulung\Workshop2017\Aufgabe5\Aufgabe5\obj\Debug\Aufgabe5.exe
+C:\Users\rcp4\Desktop\C#_Schulung\Workshop2017\Aufgabe5\Aufgabe5\obj\Debug\Aufgabe5.pdb

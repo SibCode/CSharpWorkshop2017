@@ -1,0 +1,5 @@
+C:\Users\rcp4\Desktop\C#_Schulung\Workshop2017\Aufgabe6\Aufgabe6\bin\Debug\Aufgabe6.exe.config
+C:\Users\rcp4\Desktop\C#_Schulung\Workshop2017\Aufgabe6\Aufgabe6\bin\Debug\Aufgabe6.exe
+C:\Users\rcp4\Desktop\C#_Schulung\Workshop2017\Aufgabe6\Aufgabe6\bin\Debug\Aufgabe6.pdb
+C:\Users\rcp4\Desktop\C#_Schulung\Workshop2017\Aufgabe6\Aufgabe6\obj\Debug\Aufgabe6.exe
+C:\Users\rcp4\Desktop\C#_Schulung\Workshop2017\Aufgabe6\Aufgabe6\obj\Debug\Aufgabe6.pdb
