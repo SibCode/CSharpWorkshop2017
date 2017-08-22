@@ -1,10 +1,9 @@
-# CSharpWorkshop2017
-## C Sharp Workshop 2017 at Bedag Informatik AG
+# C Sharp Workshop 2017 at Bedag Informatik AG
 
-This project includes examplary solutions for tasks within a workshop for new trainees at Bedag Informatik AG.
-Part I is about basic operations while Part II focuses on arrays and reducing redundancy through methods.
+This project includes exemplary solutions for tasks within a C# workshop for new trainees at Bedag Informatik AG.
+Part I of the workshop is about basic operations while Part II focuses on arrays and reducing redundancy through methods.
 
-The tasks for the 2017 workshop are:
+## Tasks
 
 - Part I
 1.	Lies eine Eingabe ein und gib sie wieder aus. (Eingabe/ Ausgabe)
