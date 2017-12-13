@@ -1,6 +1,6 @@
-# C# Workshop 2017 at Bedag Informatik AG
+# C# Workshop 2017
 
-This project includes exemplary solutions for tasks within a C# workshop for new trainees at Bedag Informatik AG.
+This project includes exemplary solutions for tasks within a C# workshop for trainees and covers some basics.
 Part I of the workshop is about basic operations while Part II focuses on arrays and reducing redundancy through methods.
 
 ## Tasks
