@@ -1,6 +1,6 @@
 # C# Workshop 2017
 
-This project includes exemplary solutions for tasks within a C# workshop for trainees and covers some basics.
+This project includes exemplary solutions for tasks within a C# workshop for trainees.
 Part I of the workshop is about basic operations while Part II focuses on arrays and reducing redundancy through methods.
 
 ## Tasks
